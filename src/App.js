@@ -41,9 +41,9 @@ const App = () => {
                       }
                       r={o / Math.PI}
                       style={{
-                        stroke: `hsl(${60 - (30 / radials) * o}, 100%, 99%)`,
-                        fill: `hsla(${60 -
-                          (30 / radials) * o}, 100%, 50%, 0.75)`
+                        stroke: `hsl(${90 - (30 / radials) * o}, 100%, 50%)`,
+                        fill: `hsla(${90 -
+                          (30 / radials) * o}, 100%, 50%, 0.25)`
                       }}
                     />
                   );
