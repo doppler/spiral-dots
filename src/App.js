@@ -29,17 +29,17 @@ const App = () => {
                       key={i}
                       cx={
                         center.x +
-                        angle *
+                        (angle / 2) *
                           PHI *
                           Math.cos(radian + ((Math.PI * 2) / radials) * i)
                       }
                       cy={
                         center.y +
-                        angle *
+                        (angle / 2) *
                           PHI *
                           Math.sin(radian + ((Math.PI * 2) / radials) * i)
                       }
-                      r={o / Math.PI}
+                      r={o / Math.PI / 2}
                       style={{
                         stroke: `hsl(${90 - (30 / radials) * o}, 100%, 50%)`,
                         fill: `hsla(${90 -
