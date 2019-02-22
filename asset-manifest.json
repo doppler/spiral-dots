@@ -1,13 +1,13 @@
 {
   "main.css": "/spiral-dots/static/css/main.c96b3be5.chunk.css",
-  "main.js": "/spiral-dots/static/js/main.880f6d25.chunk.js",
-  "main.js.map": "/spiral-dots/static/js/main.880f6d25.chunk.js.map",
+  "main.js": "/spiral-dots/static/js/main.4c835ce3.chunk.js",
+  "main.js.map": "/spiral-dots/static/js/main.4c835ce3.chunk.js.map",
   "runtime~main.js": "/spiral-dots/static/js/runtime~main.c92368f3.js",
   "runtime~main.js.map": "/spiral-dots/static/js/runtime~main.c92368f3.js.map",
   "static/js/2.62638be1.chunk.js": "/spiral-dots/static/js/2.62638be1.chunk.js",
   "static/js/2.62638be1.chunk.js.map": "/spiral-dots/static/js/2.62638be1.chunk.js.map",
   "index.html": "/spiral-dots/index.html",
-  "precache-manifest.fd73f6ec564224aa43cf05e103a4f490.js": "/spiral-dots/precache-manifest.fd73f6ec564224aa43cf05e103a4f490.js",
+  "precache-manifest.9b6b0c66d414d38e0d00cd50ab89500e.js": "/spiral-dots/precache-manifest.9b6b0c66d414d38e0d00cd50ab89500e.js",
   "service-worker.js": "/spiral-dots/service-worker.js",
   "static/css/main.c96b3be5.chunk.css.map": "/spiral-dots/static/css/main.c96b3be5.chunk.css.map"
 }
