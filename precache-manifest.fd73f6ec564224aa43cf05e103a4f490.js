@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9aabc2bd235f3b654b27",
+    "revision": "880f6d250570384ef070",
     "url": "/spiral-dots/static/css/main.c96b3be5.chunk.css"
   },
   {
-    "revision": "9aabc2bd235f3b654b27",
-    "url": "/spiral-dots/static/js/main.9aabc2bd.chunk.js"
+    "revision": "880f6d250570384ef070",
+    "url": "/spiral-dots/static/js/main.880f6d25.chunk.js"
   },
   {
     "revision": "c92368f363362d87650d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/spiral-dots/static/js/2.62638be1.chunk.js"
   },
   {
-    "revision": "b0827605ae18de14b66e330a4315b41c",
+    "revision": "d1ceb2e4f2ebf2220a61a66a6273fec8",
     "url": "/spiral-dots/index.html"
   }
 ];
