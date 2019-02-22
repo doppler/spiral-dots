@@ -1,20 +1,7 @@
 #App {
   height: 100vh;
-  color: white;
   background-color: black;
-}
-h1 {
-  position: absolute;
-  top: 0;
-  z-index: 1;
-  padding-left: 0.5em;
 }
 svg {
   background-color: hsl(240, 10%, 10%);
-  position: absolute;
-  top: 0;
-}
-svg circle {
-  stroke: white;
-  fill: transparent;
 }
